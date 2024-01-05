@@ -108,14 +108,14 @@ const MySkillsPage = () => {
                 </Main>
                 <Main>
                     <Title>
-                        <Backend width={40} height={40} /> Backend Developer
+                        <Backend width={40} height={40} /> Automation Developer
                     </Title>
                     <Description>
-                        I love to code complex logics with great effiency and with minimal and reusable code.
+                        I love to test complex logics with great effiency and with minimal and reusable code.
                     </Description>
                     <Description>
                         <strong>Skills</strong>
-                        <p>NodeJS, ExpressJS, LoopBack.io, WebRTC, socket.IO</p>
+                        <p>NodeJS, Postman, Java, WebRTC, socket.IO, TOSCA, HP-UFT, Cypress</p>
                     </Description>
                     <Description>
                         <strong>Databases</strong>
