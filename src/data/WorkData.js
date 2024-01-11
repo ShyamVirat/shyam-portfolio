@@ -6,7 +6,7 @@ export const Work = [
         name: "Colossus Consulting Inc",
         role: "Front end engineer with JS",
         description: "Bulit and managed multiple Full stack applications for a Bank and handled a different teams for multiple projects.",
-        tags: ["React", "Angular", "NodeJS", "MongoDB"],
+        tags: ["React", "Angular", "NodeJS", "MongoDB","JAVA"],
         duration: "March 2022 - Present",
         demo: "https://agency-website-eta.vercel.app/",
         github: "https://github.com/codebucks27/Agency-website"
@@ -14,7 +14,7 @@ export const Work = [
     {
         id: 2,
         name: "Tata Consultancy Services",
-        role: "QA",
+        role: "Angular Java Devleoper",
         description: "Key role involvement in developing Web based application and testing ",
         tags: ["Angular", "JAVASCRIPT", "LoopBack", "SQLSERVER"],
         duration: "May 2019 - March 2022",
