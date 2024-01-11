@@ -72,7 +72,7 @@ const AboutPage = () => {
                     <img src={astronaut} alt="spaceman" />
                 </Spaceman>
                 <Main>
-                    I'm a  developer and QA located in Toronto. I love to create simple yet beautiful and complex web applications with great user experience.
+                    I'm a  developer located in Toronto. I love to create simple yet beautiful and complex web applications with great user experience.
                     <br /> <br />
                     Exposure and insight gained about end- to- end Software Development Life Cycle and
                     core programming languages.
