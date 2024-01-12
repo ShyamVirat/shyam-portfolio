@@ -7,7 +7,7 @@ export const Work = [
         role: "Front end engineer with JS",
         description: "Bulit and managed multiple Full stack applications for a Bank and handled a different teams for multiple projects.",
         tags: ["React", "Angular", "NodeJS", "MongoDB","JAVA"],
-        duration: "March 2022 - Present",
+        duration: "SEP 2022 - Present",
         demo: "https://agency-website-eta.vercel.app/",
         github: "https://github.com/codebucks27/Agency-website"
     },
