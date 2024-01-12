@@ -22,16 +22,16 @@ export const Work = [
         github: "https://github.com/codebucks27/react-job-listing-website"
 
     },
-    {
-        id: 3,
-        name: "Virtusa PVT LTD",
-        role: "Junior Full Stack Developer",
-        description: "Played a key role in monitoring development activities and providing technical/process level guidance/support to the project team..",
-        tags: ["Angular", "Java", "WebRTC", "Socket.io"],
-        duration: "March 2018 - May 2019",
-        demo: "http://devto-clone-codebucks27.vercel.app/",
-        github: "https://github.com/codebucks27/devto-clone"
-    },
+    // {
+    //     id: 3,
+    //     name: "Virtusa PVT LTD",
+    //     role: "Junior Full Stack Developer",
+    //     description: "Played a key role in monitoring development activities and providing technical/process level guidance/support to the project team..",
+    //     tags: ["Angular", "Java", "WebRTC", "Socket.io"],
+    //     duration: "March 2018 - May 2019",
+    //     demo: "http://devto-clone-codebucks27.vercel.app/",
+    //     github: "https://github.com/codebucks27/devto-clone"
+    // },
    
 
 ] 
